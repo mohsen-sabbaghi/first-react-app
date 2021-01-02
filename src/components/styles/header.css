@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    font-size: calc(10px + 2vmin);
+}
+
+.header-left {
+    background-color: #e3ffd1;
+    flex-basis: 30%;
+}
+
+.header-center {
+    background-color: #ec894a;
+    flex-basis: 40%;
+}
+
+.header-right {
+    background-color: #d1fffa;
+    flex-basis: 30%;
+}
